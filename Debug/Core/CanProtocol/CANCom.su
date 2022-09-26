@@ -1,0 +1,6 @@
+../Core/CanProtocol/CANCom.c:20:6:CRCInit	24	static
+../Core/CanProtocol/CANCom.c:30:9:CalcCRC	24	static
+../Core/CanProtocol/CANCom.c:39:13:CAN_ConfigFilter	56	static
+../Core/CanProtocol/CANCom.c:53:6:CAN_Config	16	static
+../Core/CanProtocol/CANCom.c:60:6:CAN_Receive	64	static
+../Core/CanProtocol/CANCom.c:93:6:CAN_Transmit	64	static
